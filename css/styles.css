@@ -1,0 +1,129 @@
+body {
+	background-color: #D69E0E;
+}
+/* Nav Bar */
+.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #E2C782;
+}
+.nav li {
+	float: left;
+}	
+.nav li a { 
+display: inline-block;
+color: blue;
+text-align: center;
+padding: 14px 16px; text-decoration: none;
+}
+a:hover {
+	color: red;
+	border: 4px dashed green;
+	text-align: justify;
+	background-color: #D8CAA6;
+}
+
+
+/* css for CSS Playground. */
+.body {
+  background-color: #398BAA;
+}
+.head {
+  width: 100px;
+  height: 100px;
+  border: 20px ridge #91899A;
+  border-radius: 40px;
+  background-color: #9F96A9;
+  position: relative;
+  left: ;
+  top: ;
+  margin: 50px auto;
+}
+.center-eye {
+  width: 25px;
+  height: 25px;
+  border: 3px outset #938D99;
+  border-radius: ;
+  background-color: black;
+  position: relative;
+  left: ;
+  top: ;
+  margin: 20px 0px 0px 35px;
+}
+.inner-eye {
+  width: 10px;
+  height: 10px;
+  border: 3px groove #D82323;
+  border-radius: ;
+  background-color: black;
+  position: absolute;
+  left: ;
+  top: ;
+  margin: 5px 0px 0px 5px;
+}
+.mouth {
+  width: 80px;
+  height: 15px;
+  border: 5px inset #938D99;
+  border-radius: 0px;
+  background-color: #650647;
+  position: relative;
+  left: ;
+  top: ;
+  margin: 10px 0px 0px 5px;
+}
+/*.teeth {
+  width: 8px;
+  height: 8px;
+  border: none;
+  border-radius: 0px;
+  background-color: #938D99;
+  position: ;
+  left: ;
+  top: ;
+  margin: 0px 0px 0px 0px;  
+}*/
+.teeth2 {
+  width: 8px;
+  height: 8px;
+  border: none;
+  border-radius: 0px;
+  background-color: #938D99;
+  position: relative;
+  left: 15px;
+  top: ;
+  margin: 0px 0px 0px 0px;  
+}
+.teeth3 {
+  width: 8px;
+  height: 8px;
+  border: none;
+  border-radius: 0px;
+  background-color: #938D99;
+  position: relative;
+  left: 19px;
+  top: ;
+  margin: 0px 0px 0px 0px;  
+}
+.teeth4 {
+  width: 8px;
+  height: 8px;
+  border: none;
+  border-radius: 0px;
+  background-color: #938D99;
+  position: relative;
+  left: 18px;
+  top: ;
+  margin: 0px 0px 0px 0px;  
+}
+/* Create 6 Shapes */
+#col-sm-4 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+.project {
+
+}
