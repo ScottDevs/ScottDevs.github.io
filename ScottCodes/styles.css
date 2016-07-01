@@ -1,0 +1,40 @@
+#header {
+outline-style: solid;
+text-align: center;
+color: green;
+background-color: black;
+
+}
+#nav {
+outline-style: solid;
+text-align: center;
+
+}
+#body {
+outline-style: solid;
+margin: 1px;
+}
+#back {
+background-color: #E3CAA1;
+}
+#home {
+color: white;
+font-size: 25px;
+padding-top: 5px;
+}
+
+#bodyex {
+outline-style: none;
+margin: 1px;
+}
+
+#cine {
+text-align: center;
+}
+#photofx {
+text-align: center;
+}
+
+
+
+
