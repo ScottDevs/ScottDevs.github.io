@@ -4,4 +4,3 @@ if (answer)
 window.location="index.html";
 }
 
-
