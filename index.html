@@ -9,13 +9,13 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ScottDevs</title>
+    <title>ScottDev's Portfolio</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/3-col-portfolio.css" rel="stylesheet">
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,15 +44,15 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <!-- <li>
-                        <a href="#">About</a>
-                    </li> -->
                     <li>
-                        <a href="views/photography.html">photography</a>
+                        <a href="views/websites.html">Websites</a>
                     </li>
-                    <!--<li>
-                        <a href="#">Apps</a>
-                    </li>-->
+                    <li>
+                        <a href="views/tutorials.html">Tutorials</a>
+                    </li>
+                    <li>
+                        <a href="views/photography.html">Photography</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -63,53 +63,104 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Page Header -->
+
+
+        <!-- Jumbotron Header -->
+        <header class="jumbotron hero-spacer">
+            <div class = "row">
+        <div class="col-lg-4">
+            <img id="profile" src="images/profile.png"></img>
+        </div>
+        <div class="col-lg-8">
+            <h1>Justin Scott Hardcastle</h1>
+            <p>Hello and welcome to my portfolio site. I am a current student attending both Ivy Tech Community College and ElevenFifty Academy. Feel to free find me on social media below and check out my projects.</p><p><-| Portfolio Still Being Developed |-></p>
+        </div>
+    </div>
+        <p>
+            <a target="_blank" href= "https://goo.gl/M2u8dE" class="btn btn-primary btn-large">LinkedIn</a>
+            <a target="_blank" href= "http://goo.gl/tp0JBr" class="btn btn-primary btn-large">Codepen</a>
+            <a target="_blank" href= "https://goo.gl/wnCcEf" class="btn btn-primary btn-large">Codecademy</a>
+            <a target="_blank" href= "http://goo.gl/Rccc9m" class="btn btn-primary btn-large">StackOverflow</a>
+            <a target="_blank" href= "https://goo.gl/sHvED3" class="btn btn-primary btn-large">Instagram</a>
+            <a target="_blank" href= "https://goo.gl/zymZ4c" class="btn btn-primary btn-large">YouTube</a>
+
+        </p>
+
+        </header>
+
+        <hr>
+
+        <!-- Title -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Scotts Portfolio
-                    <small></small>
-                </h1>
+                <h3>Latest Projects</h3>
             </div>
         </div>
         <!-- /.row -->
 
-        <!-- Projects Row -->
-  
-        <!-- /.row -->
+        <!-- Page Features -->
+        <div class="row text-center">
 
-        <!-- Projects Row -->
-        
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <a href="views/websites.html">
+                        <img src="images/bananamedia.png" id="hover" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3>Websites</h3>
+                        <p>Here is a collection of websites and mini-games I have made.</p>
+                        <p>
+                             <a href="views/websites.html" class="btn btn-default">View</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
-        <!-- Projects Row -->
-        <div class="row">
-            <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="" height="700px" width="400px">
-                </a>
-                <h3>
-                    <p>Websites</p>
-                </h3>
-                <p></p>
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <a href="views/tutorials.html">
+                        <img src="images/tutorials.png" id="hover" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3>Web Tutorials</h3>
+                        <p>A collection of tutorials I have seeked out and completed.</p>
+                        <p>
+                             <a href="views/tutorials.html" class="btn btn-default">View</a>
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 portfolio-item">
-                <a href="views/photography.html">
-                    <img class="img-responsive" src="photofx/levitate/diamond.png" alt="" height="700px" width="400px">
-                </a>
 
-                <h3>
-                    <p>Photography</p>
-                </h3>
-                <p></p>
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <a href="views/photography.html">
+                        <img src="photofx/clone/sophia-dug-out.png" id="hover" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3>Levitation & Cloning</h3>
+                        <p>A collection of photos using the Cloning and Levititation effect.</p>
+                        <p>
+                             <a href="views/photography.html" class="btn btn-default">View</a>
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 portfolio-item">
-                <a href="views/cinemographs.html">
-                    <img class="img-responsive" src="photofx/cinemo/Nicole_BB_Back.gif" alt="">
-                </a>
-                <h3>
-                    <p>Cinemographs</p>
-                </h3>
-                <p></p>
+
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <a href="views/cinemographs.html">
+                        <img src="photofx/cinemo/Nicole_BB_Back.gif" id="hover" alt="">
+                    </a>
+                    <div class="caption">
+                        <h3>Cinemographs</h3>
+                        <p>A collection of videos made into cinemographs.</p>
+                        <p>
+                             <a href="views/cinemographs.html" class="btn btn-default">View</a>
+                        </p>
+                    </div>
+                </div>
             </div>
+
         </div>
         <!-- /.row -->
 
@@ -122,7 +173,6 @@
                     <p>Copyright &copy; ScottDevs 2016</p>
                 </div>
             </div>
-            <!-- /.row -->
         </footer>
 
     </div>
@@ -137,3 +187,4 @@
 </body>
 
 </html>
+
