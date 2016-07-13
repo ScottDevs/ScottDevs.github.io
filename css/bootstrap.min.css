@@ -16,9 +16,9 @@
 	border: 2px solid black;
 	text-decoration: none;
 }
-.icons {
+/*.icons {
 	margin-left: 10px;
-}
+}*/
 	/*linkedin*/
 #linkedin {
 	text-decoration: none;
@@ -27,6 +27,9 @@
 #linkedin:hover {
 	text-decoration: none;
 	color: black;
+}
+#linkedin {
+	margin-left: 10px;
 }
 	/*linkedin*/
 	/*Codepen*/
@@ -38,7 +41,9 @@
 	text-decoration: none;
 	color: black;
 }
-
+#codepen {
+	margin-left: 20px;
+}
 	/*Codepen*/
 	/*Stackoverflow*/
 #stack {
@@ -49,7 +54,9 @@
 	text-decoration: none;
 	color: black;
 }
-
+#stack {
+	margin-left: 20px;
+}
 	/*StackOverFlow*/
 	/*Instagram*/
 #instagram {
@@ -60,7 +67,9 @@
 	text-decoration: none;
 	color: black;
 }
-
+#instagram {
+	margin-left: 20px;
+}
 	/*Instagram*/
 	/*Codecademy*/
 #codecad {
@@ -71,7 +80,9 @@
 	text-decoration: none;
 	color: black;
 }
-
+#codecad {
+	margin-left: 20px;
+}
 	/*Codecademy*/
 	/*Youtube*/
 #youtube {
@@ -82,7 +93,9 @@
 	text-decoration: none;
 	color: red;
 }
-
+#youtube {
+	margin-left: 20px;
+}
 	/*Youtube*/
 
 
