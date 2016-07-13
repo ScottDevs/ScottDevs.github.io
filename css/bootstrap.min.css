@@ -16,4 +16,82 @@
 	border: 2px solid black;
 	text-decoration: none;
 }
+.icons {
+	margin-left: 10px;
+}
+	/*linkedin*/
+#linkedin {
+	text-decoration: none;
+	color: black;
+}
+#linkedin:hover {
+	text-decoration: none;
+	color: black;
+}
+	/*linkedin*/
+	/*Codepen*/
+#codepen {
+	text-decoration: none;
+	color: black;
+}
+#codepen:hover {
+	text-decoration: none;
+	color: black;
+}
+
+	/*Codepen*/
+	/*Stackoverflow*/
+#stack {
+	text-decoration: none;
+	color: black;
+}
+#stack:hover {
+	text-decoration: none;
+	color: black;
+}
+
+	/*StackOverFlow*/
+	/*Instagram*/
+#instagram {
+	text-decoration: none;
+	color: black;
+}
+#instagram:hover {
+	text-decoration: none;
+	color: black;
+}
+
+	/*Instagram*/
+	/*Codecademy*/
+#codecad {
+	text-decoration: none;
+	color: black;
+}
+#codecad:hover {
+	text-decoration: none;
+	color: black;
+}
+
+	/*Codecademy*/
+	/*Youtube*/
+#youtube {
+	text-decoration: none;
+	color: black;
+}
+#youtube:hover {
+	text-decoration: none;
+	color: red;
+}
+
+	/*Youtube*/
+
+
+
+
+
+
+
+
+
+
 
