@@ -26,10 +26,12 @@
 }
 #linkedin:hover {
 	text-decoration: none;
-	color: black;
+	color: white;
+	background-color: #0077B5;
+	border: solid 2.5px #0077B5;
 }
 #linkedin {
-	margin-left: 10px;
+	margin-left: 0px;
 }
 	/*linkedin*/
 	/*Codepen*/
