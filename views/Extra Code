@@ -1,0 +1,99 @@
+ <!--CINEMAGRAPHS OLD CODE - NOT THE SLIDE - Below -->
+ <!--PAGINATION TOP-->
+        <!-- Projects Row ONE-->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">  All images have url links above.-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_bb_back.gif" alt="#">
+                    
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_sleep.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_bb_front.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Projects Row TWO-->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_blink_fan.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_puzzle_drink.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_hair_book.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+        </div>
+
+        <!-- Projects Row THREE-->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="../photofx/cinemo/nicole_water_plants.gif" alt="#">
+                </a>
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <!--<a href="#">-->
+                    <img class="img-responsive" src="" alt="">
+                </a>
+
+                <h3>
+                    <!--<a href="#">-->
+                </h3>
+                <p></p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#"
+                    <img class="img-responsive" src="" alt="">
+                </a>
+                <!-- <h3>
+                    <a href="#">
+                </h3>
+                <p></p> -->
+            </div>
+        </div>
+
+         <!--CINEMAGRAPHS OLD CODE - NOT THE SLIDE - Above --> 
